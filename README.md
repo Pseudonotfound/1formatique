@@ -4,7 +4,7 @@ description: >-
   e-commerce à l'IUT de Damigny, antenne de l'Université de Caen à Alençon.
 ---
 
-# IUT Montfoulon
+# Documentation IUT Montfoulon
 
 ## Joomla
 
@@ -79,5 +79,3 @@ Certaines extensions sont téléchargeables depuis l'interface d'administration.
 ## RGPD
 
 * [Registre-sous-traitance-des-traitements-societe-Machin](https://lafabriqueduweb.eu/images/Extensions\_Joomla/Registre-sous-traitance-des-traitements-societe-Machin.xlsx)
-
-{% embed url="https://www.youtube.com/watch?v=jLa0KXGNrwk" %}
