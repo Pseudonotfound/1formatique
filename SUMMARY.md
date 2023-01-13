@@ -1,3 +1,3 @@
 # Table of contents
 
-* [IUT Montfoulon](README.md)
+* [Documentation IUT Montfoulon](README.md)
