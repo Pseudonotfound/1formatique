@@ -57,8 +57,7 @@ Certaines extensions sont téléchargeables depuis l'interface d'administration.
 
 ### Effacer le fond d'une image
 
-*
-  * [https://www.remove.bg/fr](https://www.remove.bg/fr)
+* [https://www.remove.bg/](https://www.remove.bg/)
 
 ### Redimensionner
 
@@ -66,9 +65,8 @@ Certaines extensions sont téléchargeables depuis l'interface d'administration.
 
 ### Transformer
 
-*
-  * [https://edit.cartoonize.net/](https://edit.cartoonize.net/)
-  * [https://www.befunky.com/](https://www.befunky.com/)
+* [https://www.befunky.com/](https://www.befunky.com/)
+* [https://edit.cartoonize.net/](https://edit.cartoonize.net/)
 
 ## Polices
 
