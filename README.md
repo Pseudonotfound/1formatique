@@ -48,7 +48,10 @@ Certaines extensions sont téléchargeables depuis l'interface d'administration.
 
 ## Wordpress
 
-* [Ajouter un menu de pied de page](https://youtu.be/hSMRDDL7mao) (tuto vidéo, privilégier cette méthode à la seconde ci-dessous)
+* Ajouter un menu de pied de page (tuto vidéo, privilégier cette méthode à la seconde ci-dessous)
+
+{% embed url="https://www.youtube.com/watch?v=hSMRDDL7mao&feature=youtu.be" %}
+
 * [Ajouter un footer](https://www.youtube.com/watch?v=p-NjGtTkBfM) (tuto vidéo)
 * [Tutoriel](https://lafabriqueduweb.eu/images/Wordpress.pdf) (pdf, les bases de WP, comment faire un site rapidement)
 * [Tutoriels vidéo](https://fr.tuto.com/wordpress/?idc=2018-search\_fr\&gclid=Cj0KCQiAmaibBhCAARIsAKUlaKRtYhIMzWFmVyBGSZnHT5Z3X45YT5UGr8YbpWrZICH\_EHbZt0daU-oaAq3TEALw\_wcB) (Plein de vidéos pour apprendre à utiliser WP)
