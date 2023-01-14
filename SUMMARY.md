@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Documentation IUT Montfoulon](README.md)
+* [Introduction à Windows 10](README.md)
